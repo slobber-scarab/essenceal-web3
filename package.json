@@ -1,0 +1,29 @@
+{
+  "name": "essenceal-web3",
+  "version": "1.0.0",
+  "description": "Enhance Web3 capabilities with tools for Web3 enhancement and optimization.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slobber-scarab/essenceal-web3"
+  },
+  "author": "slobber-scarab",
+  "license": "MIT",
+  "dependencies": {
+    "essenceal-web3": "1.0.0",
+    "web3-enhancer-essenceal": "1.0.0",
+    "axios": "1.0.0",
+    "cheerio": "1.0.0",
+    "nodemon": "1.0.0",
+    "underscore": "1.0.0",
+    "node-sass": "1.0.0",
+    "dotenv": "1.0.0",
+    "moment": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "bluebird": "1.0.0",
+    "cors": "1.0.0"
+  }
+}
